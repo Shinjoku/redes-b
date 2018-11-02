@@ -2,7 +2,7 @@
 
 Here you'll find the projects from the discipline of Computer's Network, from PUC-Campinas.
 All these projects were developed by Shinjoku and luizerbetto, both students of the university.
-Of course, this would not be possible withou the help of the network tutorials (carefully googled).
+Of course, this would not be possible without or teacher and the help of the network tutorials (carefully googled).
 
 In this project, our goal was create an enterprise environment, counting with the following services:
   - Web;
@@ -33,8 +33,6 @@ Linux-based OS
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
 The tests will be explained inside each service. But, if you want to get ready soon, it's good to have:
   - nslookup;
   - Browser of your choice;
@@ -42,25 +40,17 @@ The tests will be explained inside each service. But, if you want to get ready s
   - FTP client of your choice.
   
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-
 ## Authors
 
 * **José Carlos Clausen Neto** - *Changes, setup and documentation* - [Shinjoku](https://github.com/Shinjoku)
 * **Luiz Felipe Zerbetto Masson** - *Changes, setup and documentation* - [luizerbetto](https://github.com/luizerbetto)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 * [PurpleBooth](https://github.com/PurpleBooth) for [this readme base](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * Our teacher for the patience and all the explanations that made this possible.
+* [FTP Server Tutorial, by DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-for-a-user-s-directory-on-ubuntu-16-04)
+* [Web Server Tutorial, by KvCodes](http://www.kvcodes.com/2017/05/install-apache-aws-ubuntu/)
+* [DNS Service Tutorial, by DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-configure-bind-as-a-private-network-dns-server-on-ubuntu-14-04)
+* [Email Server Tutorial, by DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-on-ubuntu-16-04)
