@@ -1,6 +1,6 @@
 # Redes B Project 1
 
-Here you'll find the projects from the discipline of Network of Computers, from PUC-Campinas.
+Here you'll find the projects from the discipline of Computer's Network, from PUC-Campinas.
 All these projects were developed by Shinjoku and luizerbetto, both students of the university.
 Of course, this would not be possible withou the help of the network tutorials (carefully googled).
 
