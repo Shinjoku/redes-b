@@ -1,0 +1,20 @@
+;
+; BIND reverse data file for local loopback interface
+;
+$TTL    604800
+@       IN      SOA     clausenezerbetto.com. admin.clausenezerbetto.com. (
+                              3         ; Serial
+                         604800         ; Refresh
+                          86400         ; Retry
+                        2419200         ; Expire
+                         604800 )       ; Negative Cache TTL
+;
+; name servers - NS records
+        IN      NS      dns1.clausenezerbetto.com.
+        IN      NS      dns2.clausenezerbetto.com.
+;
+; PTR records
+55.11   IN      PTR     dns1.clausenezerbetto.com.      ; 172.31.11.55
+55.11   IN      PTR     www.clausenezerbetto.com.       ; 172.31.11.56
+55.11   IN      PTR     smtp.clausenezerbetto.com.      ; 172.31.11.57
+55.11   IN      PTR     ftp.clausenezerbetto.com.       ; 172.31.11.58

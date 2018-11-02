@@ -141,7 +141,7 @@ get <filename>
 
 
 ## Built with
-[VSFTPD](hhttps://security.appspot.com/vsftpd.html) - The FTP server
+[VSFTPD](https://security.appspot.com/vsftpd.html) - The FTP server
 
 ## Thanks to
 *[Digital Ocean](http://www.digitalocean.com/) - for the [tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-for-a-user-s-directory-on-ubuntu-16-04).
